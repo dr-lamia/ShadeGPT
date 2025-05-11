@@ -2,6 +2,7 @@ streamlit
 opencv-python-headless
 numpy
 Pillow
-streamlit-drawable-canvas
 pandas
 openai
+streamlit-drawable-canvas==0.8.0
+
